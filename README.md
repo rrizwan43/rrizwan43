@@ -38,8 +38,8 @@ Welcome to my GitHub! I'm a **Business Intelligence Engineer / Data Analyst** wi
 
 ## 📬 Let's Connect
 
-- 🌍 [Portfolio Website](https://rizawnsarwar.com)  
-- 💼 [Upwork Profile]([https://www.upwork.com/freelancers/~your-id](https://upwork.com/freelancers/muhammadr716))  
+- 🌍 [Portfolio Website](https://rizwansarwar.com)  
+- 💼 [Upwork Profile](https://upwork.com/freelancers/muhammadr716)  
 - 📊 [Fiverr Profile](https://www.fiverr.com/users/rrizwan43/)  
 - 🔗 [LinkedIn](www.linkedin.com/in/rizwanalisarwar)
 
