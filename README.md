@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Business Intelligence Engineer / Data Analyst** wi
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 - 📊 Build **automated dashboards** and **reporting systems**
 - 🔄 Develop **ETL pipelines** to move and transform data
@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a **Business Intelligence Engineer / Data Analyst** wi
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a **Business Intelligence Engineer / Data Analyst** wi
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 - 🌍 [Portfolio Website](https://rizwansarwar.com)  
 - 💼 [Upwork Profile](https://upwork.com/freelancers/muhammadr716)  
